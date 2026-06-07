@@ -31,10 +31,13 @@ A machine learning solution for forecasting traffic demand using historical tran
 ## 📂 Repository Structure
 
 ```text
-├── train.csv
-├── test.csv
-├── submission_catboost_baseline.ipynb
-├── submission.csv
+├── dataset
+  ├── train.csv
+  ├── test.csv
+  ├── submission.csv
+├── submission_catboost_baseline_source_code.ipynb
+├── submission_catboost_baseline.csv
+├── README.txt
 └── README.md
 ```
 
