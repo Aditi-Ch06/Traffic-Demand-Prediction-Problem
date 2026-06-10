@@ -1,5 +1,7 @@
 # 🚦 Traffic Demand Prediction
 
+## Problem Statement
+
 A machine learning solution for forecasting traffic demand using historical transportation data. Built an end-to-end prediction pipeline with feature engineering, preprocessing, model training, evaluation, and competition-ready submission generation using **CatBoost Regressor**.
 
 ## Dataset
