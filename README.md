@@ -49,10 +49,14 @@ Target variable: Traffic Demand
 4. Train-validation split
 
 <img width="772" height="566" alt="image" src="https://github.com/user-attachments/assets/73f4c681-6e7f-4535-8f51-e91e3bbec665" />
+<img width="583" height="638" alt="image" src="https://github.com/user-attachments/assets/16463f51-1aea-4123-9f57-6156c8925d0f" />
+
 
 ### Model Selection
    
 6. CatBoost model training
+
+<img width="765" height="617" alt="image" src="https://github.com/user-attachments/assets/cb332178-dee8-4cf8-823e-491a02955af2" />
 
 
 ### Evaluation Strategy
@@ -60,6 +64,9 @@ Target variable: Traffic Demand
 8. Performance evaluation (RMSE & R²)
 9. Test set prediction generation
 10. Competition submission creation
+
+<img width="561" height="139" alt="image" src="https://github.com/user-attachments/assets/557e54b7-f873-4dff-a06d-1412e422ad6e" />
+
 
 ## 📂 Repository Structure
 
