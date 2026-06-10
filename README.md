@@ -17,11 +17,13 @@ Training samples: 77299
 Testing samples: 41778
 Target variable: Traffic Demand
 
-## 🎯 Key Results
+## Results
 
-- **RMSE:** 0.03437
-- **R² Score:** 0.94
-- **Leaderboard Score:** 90.77519
+| Metric | Value |
+|----------|--------|
+| RMSE | 0.03437 |
+| R² Score | 0.94 |
+| Leaderboard Score | 90.77519 |
 - Built a robust baseline model with strong generalization performance.
 
 ## 🛠️ Tech Stack
