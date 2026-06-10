@@ -33,15 +33,15 @@ Target variable: Traffic Demand
 - CatBoost
 - Jupyter Notebook
 
-## 🚀 Project Workflow
+## Methodology
 
-1. Data preprocessing and cleaning
-2. Feature engineering
-3. Train-validation split
-4. CatBoost model training
-5. Performance evaluation (RMSE & R²)
-6. Test set prediction generation
-7. Competition submission creation
+### Data Preprocessing
+
+### Feature Engineering
+
+### Model Selection
+
+### Evaluation Strategy
 
 ## 📂 Repository Structure
 
