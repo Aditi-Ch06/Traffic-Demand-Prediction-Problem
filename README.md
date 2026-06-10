@@ -39,10 +39,16 @@ Target variable: Traffic Demand
 
 1. Data preprocessing and cleaning
 
+<img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/594a0ab5-7f26-47af-8561-31a0c64a2b25" />
+<img width="706" height="656" alt="image" src="https://github.com/user-attachments/assets/2e3fff4f-6ce0-4495-bbd7-8e38cd47a607" />
+<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/69556ef4-e23b-413a-b07f-66f3f0f7c474" />
+
 ### Feature Engineering
   
 3. Feature engineering
 4. Train-validation split
+
+<img width="772" height="566" alt="image" src="https://github.com/user-attachments/assets/73f4c681-6e7f-4535-8f51-e91e3bbec665" />
 
 ### Model Selection
    
@@ -54,14 +60,6 @@ Target variable: Traffic Demand
 8. Performance evaluation (RMSE & R²)
 9. Test set prediction generation
 10. Competition submission creation
-
-<img width="1146" height="611" alt="image" src="https://github.com/user-attachments/assets/594a0ab5-7f26-47af-8561-31a0c64a2b25" />
-<img width="706" height="656" alt="image" src="https://github.com/user-attachments/assets/2e3fff4f-6ce0-4495-bbd7-8e38cd47a607" />
-<img width="968" height="545" alt="image" src="https://github.com/user-attachments/assets/69556ef4-e23b-413a-b07f-66f3f0f7c474" />
-
-<img width="772" height="566" alt="image" src="https://github.com/user-attachments/assets/73f4c681-6e7f-4535-8f51-e91e3bbec665" />
-
-
 
 ## 📂 Repository Structure
 
