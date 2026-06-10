@@ -17,15 +17,6 @@ Training samples: 77299
 Testing samples: 41778
 Target variable: Traffic Demand
 
-## Results
-
-| Metric | Value |
-|----------|--------|
-| RMSE | 0.03437 |
-| R² Score | 0.94 |
-| Leaderboard Score | 90.77519 |
-- Built a robust baseline model with strong generalization performance.
-
 ## 🛠️ Tech Stack
 
 - Python
@@ -69,6 +60,14 @@ Target variable: Traffic Demand
 
 <img width="561" height="139" alt="image" src="https://github.com/user-attachments/assets/557e54b7-f873-4dff-a06d-1412e422ad6e" />
 
+## Results
+
+| Metric | Value |
+|----------|--------|
+| RMSE | 0.03437 |
+| R² Score | 0.94 |
+| Leaderboard Score | 90.77519 |
+- Built a robust baseline model with strong generalization performance.
 
 ## 📂 Repository Structure
 
@@ -78,6 +77,19 @@ Target variable: Traffic Demand
 ├── README.txt
 └── README.md
 ```
+
+## 📌 Run Locally
+
+```bash
+git clone https://github.com/your-username/traffic-demand-prediction.git
+cd traffic-demand-prediction
+
+pip install pandas numpy scikit-learn catboost
+
+jupyter notebook
+```
+
+---
 
 ## 📈 Model Highlights
 
@@ -93,19 +105,6 @@ Target variable: Traffic Demand
 - Ensemble methods
 - Advanced feature engineering
 - Target transformation experiments
-
-## 📌 Run Locally
-
-```bash
-git clone https://github.com/your-username/traffic-demand-prediction.git
-cd traffic-demand-prediction
-
-pip install pandas numpy scikit-learn catboost
-
-jupyter notebook
-```
-
----
 
 **Author:** Aditi Chaudhary  
 **Interests:** Machine Learning • Data Science • AI
