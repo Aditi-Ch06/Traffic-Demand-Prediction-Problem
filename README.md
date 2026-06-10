@@ -2,6 +2,19 @@
 
 A machine learning solution for forecasting traffic demand using historical transportation data. Built an end-to-end prediction pipeline with feature engineering, preprocessing, model training, evaluation, and competition-ready submission generation using **CatBoost Regressor**.
 
+## Dataset
+
+The original competition dataset is not included in this repository due to size/licensing restrictions.
+
+Dataset contains:
+- Historical traffic demand records
+- Temporal features
+- Location-specific attributes
+
+Training samples: 77299
+Testing samples: 41778
+Target variable: Traffic Demand
+
 ## 🎯 Key Results
 
 - **RMSE:** 0.03437
